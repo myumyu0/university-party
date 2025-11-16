@@ -10,12 +10,13 @@ body {
 
 /* ヘッダー */
 header {
-    background-color: #007bff; /* メインカラー (青) */
-    color: white;
+    background-color: #ffffff; /* 白 */
+    color: #333; /* 文字色は黒などに変更すると読みやすい */
     padding: 40px 20px;
     text-align: center;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
 }
+
 
 header h1 {
     margin-bottom: 5px;
